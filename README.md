@@ -10,4 +10,3 @@ How it works:
    - Goals for
    - Goals against
    - Opponent
-3. 
