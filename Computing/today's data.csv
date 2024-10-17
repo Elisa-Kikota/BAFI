@@ -1,0 +1,263 @@
+Team_A,Team_A_Av(GD),Team_A_C(GF),Team_B,Team_B_Av(GD),Team_B_C(GF)
+Adelaide United FC,-0.43478260869565216,0,Western United,0,0
+Brisbane Roar FC,-0.5909090909090909,0,Perth,0,0
+Central Coast Mariners FC,0.19047619047619047,0,W Sydney,0,0
+Melbourne City FC,0.7272727272727273,123,Wellington Phoenix FC,0.45454545454545453,104
+Perth Glory FC,-0.09090909090909091,0,Brisbane,0,0
+Perth Glory FC,-0.09090909090909091,0,W Sydney,0,0
+Western Sydney Wanderers FC,0.42857142857142855,0,Perth Glory,0,0
+Western Sydney Wanderers FC,0.42857142857142855,0,Central Coast Mariners,0,0
+Western United FC,-0.7727272727272727,0,Adelaide,0,0
+Cercle Brugge KSV,0.15,0,Genk,0,0
+Club Brugge KV,1.2954545454545454,55,DVL Zonhoven,0.5833333333333334,40
+Club Brugge KV,1.2954545454545454,0,Westerlo,0,0
+DVL Zonhoven,0.5833333333333334,0,Club Brugge,0,0
+FCV Dender EH,0.625,31,R.F.C. Seraing,-0.4375,19
+Francs Borains,-0.875,0,Oostende,0,0
+KAA La Gantoise,0.0,45,Yellow-Red KV Mechelen,-2.25,16
+KRC Genk,0.71875,0,Cercle Brugge,0,0
+KV Kortrijk,-1.6,8,Standard Liège,-0.5,32
+KV Oostende,-0.3125,25,Francs Borains,-0.875,18
+KVC Westerlo,-0.25,0,Club Brugge,0,0
+R.F.C. Seraing,-0.4375,0,Dender,0,0
+RFC Liège,-0.0625,26,RSC Anderlecht U23,0.125,27
+RSC Anderlecht,1.1470588235294117,63,Standard Liège,-0.5,20
+RSC Anderlecht U23,0.125,27,RFC Liège,-0.0625,26
+Standard Fémina de Liège,1.4166666666666667,0,Anderlecht,0,0
+Standard Liège,-0.5,0,Kortrijk,0,0
+Yellow-Red KV Mechelen,-2.25,16,KAA La Gantoise,0.0,45
+Accrington Stanley FC,0.1,0,Walsall,0,0
+AFC Fylde,-0.39285714285714285,0,York City,0,0
+AFC Wimbledon,0.6451612903225806,0,Crawley Town,0,0
+Aldershot Town FC,0.06451612903225806,0,Kidderminster,0,0
+Altrincham FC,0.4074074074074074,0,Southend United,0,0
+Arsenal FC,0.8666666666666667,0,Crystal Palace,0,0
+Arsenal WFC,1.4166666666666667,0,Everton,0,0
+Barnet FC,0.5625,0,Chesterfield,0,0
+Barnsley FC,0.7777777777777778,0,Stevenage,0,0
+Barrow AFC,0.4666666666666667,0,Crewe Alexandra,0,0
+Birmingham City FC,-0.3793103448275862,0,Stoke City,0,0
+Blackburn Rovers FC,0.12903225806451613,0,Huddersfield,0,0
+Blackpool FC,0.3870967741935484,0,Bristol Rovers,0,0
+Bolton Wanderers FC,0.9655172413793104,0,Leyton Orient,0,0
+Boreham Wood FC,-0.41379310344827586,0,Bromley,0,0
+Bradford City AFC,-0.16666666666666666,0,Doncaster,0,0
+Brentford FC,-0.2608695652173913,0,Nott'ham Forest,0,0
+Bristol City FC,0.1724137931034483,0,Watford,0,0
+Bristol Rovers FC,0.20689655172413793,0,Blackpool,0,0
+Bromley FC,0.6333333333333333,0,Boreham Wood,0,0
+Burton Albion FC,-0.6,0,Charlton Ath,0,0
+Cambridge United FC,-0.3,0,Exeter City,0,0
+Cardiff City FC,-0.13333333333333333,0,Plymouth Argyle,0,0
+Carlisle United FC,-0.7142857142857143,0,Cheltenham,0,0
+Charlton Athletic FC,0.10344827586206896,0,Burton Albion,0,0
+Cheltenham Town FC,-0.7241379310344828,0,Carlisle United,0,0
+Chesterfield FC,1.1333333333333333,0,Barnet,0,0
+Coventry City FC,0.4642857142857143,0,Sheffield Weds,0,0
+Crawley Town FC,-0.10344827586206896,60,AFC Wimbledon,0.6451612903225806,69
+Crewe Alexandra FC,0.2903225806451613,0,Barrow,0,0
+Crystal Palace FC,-0.34782608695652173,0,Arsenal,0,0
+Dagenham & Redbridge FC,-0.17857142857142858,0,Solihull Moors,0,0
+Derby County FC,0.6785714285714286,0,Lincoln City,0,0
+Doncaster Rovers FC,-0.46875,0,Bradford City,0,0
+Dorking Wanderers FC,-0.6296296296296297,0,Gateshead,0,0
+Eastleigh FC,0.1,0,Oldham Athletic,0,0
+Ebbsfleet United FC,-0.6333333333333333,0,Hartlepool Utd,0,0
+Everton LFC,-1.0,0,Arsenal,0,0
+Exeter City FC,-0.6666666666666666,0,Cambridge Utd,0,0
+FC Halifax Town,0.07142857142857142,0,Maidenhead Utd,0,0
+Fleetwood Town FC,-0.9642857142857143,0,Portsmouth,0,0
+Forest Green Rovers FC,-0.6451612903225806,0,Gillingham,0,0
+Gateshead FC,0.7037037037037037,0,Dorking Wand.,0,0
+Gillingham FC,-0.25806451612903225,0,FG Rovers,0,0
+Grimsby Town FC,-0.25806451612903225,0,Harrogate,0,0
+Harrogate Town FC,-0.3333333333333333,0,Grimsby Town,0,0
+Hartlepool United FC,-0.42857142857142855,0,Ebbsfleet Utd,0,0
+Huddersfield Town AFC,-0.8571428571428571,0,Blackburn,0,0
+Kidderminster Harriers FC,-0.5333333333333333,0,Aldershot Town,0,0
+Leyton Orient FC,-0.2413793103448276,0,Bolton,0,0
+Lincoln City FC,0.0,0,Derby County,0,0
+Maidenhead United FC,-0.2,27,FC Halifax Town,0.07142857142857142,49
+Mansfield Town FC,0.7741935483870968,0,Sutton United,0,0
+Middlesbrough FC,0.21875,0,Rotherham Utd,0,0
+Millwall FC,-0.2857142857142857,0,QPR,0,0
+Milton Keynes Dons FC,0.17857142857142858,0,Morecambe,0,0
+Morecambe FC,-0.10344827586206896,0,MK Dons,0,0
+Newport County AFC,0.0,0,Wrexham,0,0
+Northampton Town FC,-0.25925925925925924,0,Oxford United,0,0
+Norwich City FC,0.03333333333333333,0,West Brom,0,0
+Nottingham Forest FC,-0.5454545454545454,0,Brentford,0,0
+Notts County FC,0.2,0,Stockport,0,0
+Oldham Athletic AFC,0.13793103448275862,0,Eastleigh,0,0
+Oxford City FC,-0.5,0,Woking,0,0
+Oxford United FC,0.3,0,Northampton,0,0
+Peterborough United FC,0.65625,0,Shrewsbury,0,0
+Plymouth Argyle FC,0.0,0,Cardiff City,0,0
+Port Vale FC,-0.22857142857142856,0,Wycombe,0,0
+Portsmouth FC,0.7,0,Fleetwood Town,0,0
+Queens Park Rangers FC,-0.6428571428571429,0,Millwall,0,0
+Reading FC,-0.1,0,Wigan Athletic,0,0
+Rochdale AFC,0.20689655172413793,0,Wealdstone,0,0
+Rotherham United FC,-1.103448275862069,0,Middlesbrough,0,0
+Sheffield Wednesday FC,-0.5172413793103449,0,Coventry City,0,0
+Shrewsbury Town FC,-0.6129032258064516,0,P'borough Utd,0,0
+Solihull Moors FC,0.1724137931034483,0,Dag & Red,0,0
+Southampton FC,0.6071428571428571,0,Swansea City,0,0
+Southend United FC,0.48148148148148145,0,Altrincham,0,0
+Stevenage FC,0.36363636363636365,0,Barnsley,0,0
+Stockport County FC,1.0,0,Notts County,0,0
+Stoke City FC,-0.16666666666666666,0,Birmingham City,0,0
+Sutton United FC,-0.6875,0,Mansfield Town,0,0
+Swansea City AFC,0.0,0,Southampton,0,0
+Swindon Town FC,-0.20689655172413793,0,Tranmere Rovers,0,0
+Tranmere Rovers FC,-0.03333333333333333,0,Swindon Town,0,0
+Walsall FC,0.06451612903225806,0,Acc'ton Stanley,0,0
+Watford FC,0.25,0,Bristol City,0,0
+Wealdstone FC,-0.1111111111111111,0,Rochdale,0,0
+West Bromwich Albion FC,0.5,0,Norwich City,0,0
+Wigan Athletic FC,0.20689655172413793,0,Reading,0,0
+Woking FC,-0.26666666666666666,0,Oxford City,0,0
+Wrexham FC,0.65625,0,Newport County,0,0
+Wycombe Wanderers FC,-0.16666666666666666,0,Port Vale,0,0
+York City FC,-0.21875,0,Fylde,0,0
+AS Saint-Étienne,-0.3125,0,Fleury,0,0
+Dijon FCO,-0.7692307692307693,0,Lille,0,0
+En Avant de Guingamp,-0.15625,18,Stade de Reims,0.25,46
+FC Fleury 91 Cœur d'Essonne,-0.2727272727272727,0,Saint-Étienne,0,0
+FC Girondins de Bordeaux,-0.5151515151515151,0,Paris S-G,0,0
+Lille OSC,0.21621621621621623,0,Dijon,0,0
+Paris Saint-Germain Féminines,1.1333333333333333,0,Bordeaux,0,0
+Stade de Reims,0.25,0,Guingamp,0,0
+1. FC Heidenheim,-0.05555555555555555,0,Wolfsburg,0,0
+1. FC Kaiserslautern,0.0,0,St. Pauli,0,0
+1. FC Köln,-0.9444444444444444,0,Dortmund,0,0
+1. FC Nürnberg,-0.7741935483870968,0,Hansa Rostock,0,0
+1. FC Saarbrücken,0.6086956521739131,0,Viktoria Köln,0,0
+Bayer 04 Leverkusen,2.081081081081081,65,RB Leipzig,0.4864864864864865,42
+Borussia Dortmund,0.48,0,Köln,0,0
+Dynamo Dresden,0.8,0,Sandhausen,0,0
+Eintracht Frankfurt,0.9782608695652174,0,Darmstadt 98,0,0
+FC Hansa Rostock,-0.631578947368421,0,Nürnberg,0,0
+FC Ingolstadt,0.5714285714285714,0,Hallescher,0,0
+FC Schalke 04,-0.15789473684210525,33,Hamburger SV,0.7391304347826086,43
+FC St Pauli,0.8636363636363636,0,Kaiserslautern,0,0
+FC Viktoria Köln,-0.09090909090909091,0,Saarbrücken,0,0
+Hallescher FC,-0.65,0,Ingolstadt 04,0,0
+Hamburger SV,0.7391304347826086,0,Schalke 04,0,0
+Hannover 96,0.3888888888888889,0,Elversberg,0,0
+MSV Duisburg,-0.9375,0,1860 Munich,0,0
+RB Leipzig,0.4864864864864865,0,Leverkusen,0,0
+SC Freiburg,-0.11428571428571428,0,Hoffenheim,0,0
+SC Verl,0.3,0,Jahn R'burg,0,0
+SSV Jahn Regensburg,0.6666666666666666,0,Verl,0,0
+SV Darmstadt 98,-1.411764705882353,0,Eint Frankfurt,0,0
+SV Elversberg,-0.2222222222222222,12,Hannover 96,0.3888888888888889,22
+SV Sandhausen,-0.045454545454545456,0,Dresden,0,0
+SV Waldhof Mannheim,-0.55,0,Lübeck,0,0
+TSG 1899 Hoffenheim,0.2222222222222222,0,Freiburg,0,0
+TSV 1860 München,-0.2631578947368421,32,MSV Duisburg,-0.9375,29
+VfB Lübeck,-0.8095238095238095,0,SV Waldhof,0,0
+VfB Stuttgart,1.3157894736842106,0,Bochum,0,0
+VfL Bochum,-0.8823529411764706,0,Stuttgart,0,0
+VfL Wolfsburg,0.6363636363636364,0,Heidenheim,0,0
+AEK Athens FC,0.4074074074074074,0,OFI Crete,0,0
+AO Kifisia,-1.2352941176470589,0,Aris,0,0
+Aris Thessaloniki FC,0.23809523809523808,56,AO Kifisia,-1.2352941176470589,22
+Asteras Tripoli FC,-0.35294117647058826,0,Atromitos,0,0
+Atromitos FC,-0.29411764705882354,0,Asteras Tripoli,0,0
+OFI Crete FC,-0.7647058823529411,0,AEK Athens,0,0
+Olympiacos FC,0.8518518518518519,56,PAS Giannina,-0.6470588235294118,25
+Panathinaikos FC,1.0344827586206897,0,PAOK,0,0
+Panetolikos FC,-0.7058823529411765,0,PAS Lamia,0,0
+Panserraikos FC,-0.7647058823529411,0,Volos NFC,0,0
+PAOK FC,1.6551724137931034,0,Panathinaikos,0,0
+PAS Giannina,-0.6470588235294118,0,Olympiacos,0,0
+PAS Lamia 1964,-0.5294117647058824,0,Panetolikos,0,0
+Volos N.F.C.,-0.9411764705882353,0,Panserraikos,0,0
+AC Milan,0.35135135135135137,0,Udinese,0,0
+AC Pisa 1909,-0.2,28,Calcio Lecco 1912,-0.47368421052631576,17
+AC Reggiana 1919,0.045454545454545456,0,Como,0,0
+AS Cittadella,0.23809523809523808,0,Ternana,0,0
+AS Roma,1.3255813953488371,76,Internazionale,0.918918918918919,70
+AS Roma,1.3255813953488371,0,Hellas Verona,0,0
+Brescia Calcio,0.0,0,Südtirol,0,0
+Calcio Lecco 1912,-0.47368421052631576,0,Pisa,0,0
+Como 1907,0.15,0,Reggiana,0,0
+Cosenza Calcio 1914,-0.25,0,Venezia,0,0
+FC Südtirol,-0.1,0,Brescia,0,0
+FeralpiSalò,-0.8571428571428571,0,Catanzaro,0,0
+Hellas Verona FC,-0.47619047619047616,0,Roma,0,0
+Internazionale,0.918918918918919,70,AS Roma,1.3255813953488371,76
+Modena FC,-0.2,0,Palermo,0,0
+Spezia Calcio,-0.5238095238095238,0,Cremonese,0,0
+SSD Napoli Femminile,-1.6363636363636365,11,UC Sampdoria,-0.53125,14
+Ternana Calcio,-0.25,0,Cittadella,0,0
+UC Sampdoria,-0.53125,0,Napoli,0,0
+Udinese Calcio,-0.42857142857142855,0,Milan,0,0
+US Catanzaro 1929,0.09523809523809523,39,FeralpiSalò,-0.8571428571428571,22
+US Città di Palermo,0.4,0,Modena,0,0
+US Cremonese,0.6363636363636364,0,Spezia,0,0
+Venezia FC,0.55,0,Cosenza,0,0
+Club América,1.3478260869565217,0,Querétaro,0,0
+Club Atlas,-0.5882352941176471,0,Tijuana,0,0
+Club Tijuana,-0.17647058823529413,0,Atlas,0,0
+Deportivo Toluca FC,0.23529411764705882,0,Mazatlán,0,0
+Mazatlán FC,-0.16666666666666666,0,Toluca,0,0
+Querétaro FC,-0.6470588235294118,0,América,0,0
+ADO Den Haag Vrouwen,0.09090909090909091,39,FC Utrecht,-0.7037037037037037,18
+AFC Ajax Vrouwen,1.5294117647058822,0,Excelsior,0,0
+Almere City FC,-1.0,26,Fortuna Sittard,0.2962962962962963,51
+AZ Alkmaar,0.7307692307692307,0,Zwolle,0,0
+FC Twente,0.7272727272727273,29,NEC Nijmegen,0.1875,23
+FC Utrecht,-0.7037037037037037,6,ADO Den Haag,0.75,13
+FC Volendam,-1.375,22,Heracles Almelo,-1.1875,19
+Feyenoord Vrouwen,-0.8181818181818182,15,Fortuna Sittard,0.2962962962962963,38
+Fortuna Sittard,0.2962962962962963,38,Feyenoord Vrouwen,-0.8181818181818182,15
+Fortuna Sittard,0.2962962962962963,0,Almere City,0,0
+Heracles Almelo,-1.1875,0,Volendam,0,0
+NEC Nijmegen,0.1875,0,Twente,0,0
+PEC Zwolle,-0.3125,13,AZ Alkmaar,0.7307692307692307,22
+SBV Excelsior,-0.6296296296296297,0,Ajax,0,0
+Wellington Phoenix FC,0.45454545454545453,0,Melb City,0,0
+Casa Pia AC,-0.1875,0,Farense,0,0
+FC Arouca,-0.1111111111111111,0,Estoril,0,0
+FC Porto,0.8181818181818182,0,Moreirense,0,0
+GD Estoril Praia,0.0625,0,Arouca,0,0
+Moreirense FC,0.25,0,Porto,0,0
+SC Farense,0.0625,0,Casa Pia,0,0
+FC Dinamo București,-0.8571428571428571,0,Petrolul Ploiești,0,0
+FC Petrolul Ploiești,0.0,0,Dinamo,0,0
+FC Sibiu,0.19047619047619047,0,Universitatea Cluj,0,0
+FC Universitatea Cluj,-0.14285714285714285,0,Hermannstadt,0,0
+Dunfermline Athletic FC,0.0,59,Queen's Park FC,-0.7368421052631579,39
+Queen's Park FC,-0.7368421052631579,0,Dunfermline,0,0
+AD Alcorcón,-0.5652173913043478,0,Albacete,0,0
+Albacete Balompié,-0.3181818181818182,0,Alcorcón,0,0
+Athletic Club,1.0909090909090908,0,Valencia,0,0
+Atlético Madrid,1.1153846153846154,0,Granada,0,0
+CD Eldense,-0.21739130434782608,0,Amorebieta,0,0
+CD Tenerife,0.20833333333333334,0,Sporting Gijón,0,0
+Celta de Vigo,-0.09090909090909091,24,Real Sociedad,0.6785714285714286,41
+FC Levante Las Planas,-0.6153846153846154,11,Real Sociedad,0.6785714285714286,28
+Granada CF,-1.1515151515151516,37,Atlético Madrid,1.1153846153846154,76
+Madrid CF Femenino,0.15384615384615385,19,Real Betis,0.5,17
+Racing de Ferrol,0.3333333333333333,0,Oviedo,0,0
+Rayo Vallecano,0.18181818181818182,0,Las Palmas,0,0
+RCD Espanyol,0.5416666666666666,0,Villarreal B,0,0
+Real Betis Féminas,-1.1538461538461537,0,Madrid CFF,0,0
+Real Oviedo,0.30434782608695654,0,Racing Ferrol,0,0
+Real Sociedad,0.6785714285714286,0,Celta Vigo,0,0
+Real Sociedad Femenino,-0.38461538461538464,0,Levante Planas,0,0
+SD Amorebieta,-0.6086956521739131,0,Eldense,0,0
+Sevilla FC Femenino,0.07692307692307693,0,Villarreal,0,0
+Sporting de Gijón,0.5217391304347826,0,Tenerife,0,0
+UD Las Palmas,0.045454545454545456,23,Rayo Vallecano,0.18181818181818182,16
+Valencia CF,0.13636363636363635,20,Athletic Club,1.0909090909090908,36
+Villarreal CF B,-0.3333333333333333,0,Espanyol,0,0
+Villarreal CF Femenino,-1.1538461538461537,0,Sevilla,0,0
+BSC Young Boys,0.7692307692307693,0,Grasshopper,0,0
+FC Lausanne-Sport,-0.2777777777777778,0,St. Gallen,0,0
+FC St. Gallen,0.6666666666666666,0,Lausanne-Sport,0,0
+FC Winterthur,-0.3888888888888889,57,Servette FC,-0.07142857142857142,80
+Grasshopper Club Zürich,0.13793103448275862,0,Young Boys,0,0
+Servette FC,-0.07142857142857142,80,FC Winterthur,-0.3888888888888889,57

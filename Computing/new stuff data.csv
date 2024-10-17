@@ -1,0 +1,11 @@
+Team_A,Team_A_Av(GD),Team_A_C(GF),Team_B,Team_B_Av(GD),Team_B_C(GF),Team_A_Last,Team_B_Last,Prediction
+Adelaide United FC,-0.4347826086956521,0,Melb City,0.7272727272727273,0,0,5,[-1]
+Melbourne City FC,0.7272727272727273,126,Adelaide United FC,0.0,72,0,6,[-1]
+SKN St. Pölten Frauen,1.9333333333333331,0,fr Lyon,0.0,0,0,2,[-1]
+SK Slavia Prague,1.2121212121212122,0,no Brann,0.0,0,0,1,[-1]
+Olympique Lyonnais Féminin,3.733333333333333,0,at St. Pölten,0.0,0,2,0,[1]
+Eintracht Frankfurt,0.9782608695652174,0,es Barcelona,0.0,0,1,3,[-1]
+SK Brann Kvinner,1.75,0,cz Slavia Prague,0.0,0,1,0,[1]
+SL Benfica,1.2,0,se Rosengård,0.0,0,1,0,[1]
+FC Barcelona Femení,4.470588235294118,0,de Eint Frankfurt,0.0,0,3,1,[1]
+FC Rosengård,-1.6666666666666667,0,pt SL Benfica,0.0,0,0,1,[-1]
